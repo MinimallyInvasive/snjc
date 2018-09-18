@@ -10,7 +10,7 @@
     "EfilingCourtYr": "2018",
     "EfilingSeqNo": 123
   }
-  "PartyDetailList": [
+  "PartyDetailList" [
     {
       "PartyId": "001",
       "PartyName": {
