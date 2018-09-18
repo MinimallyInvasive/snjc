@@ -14,30 +14,36 @@
     {
       "PartyId": "001",
       "PartyName": {
+        "Title": "Mr",
         "FirstName": "Steven",
         "LastName": "Cooper",
         "MiddleName": "S"
       },
       "MailingAddress": {
         "AddressLine1": "101W 23rd",
+        "AddressLine2": "Unit # 612",
         "City": "Jersey City",
         "State": "NJ",
         "ZipCode": "07019",
+        "ZipExtension": "3245"
       },
       "TrackingNumber": "9214 8969 0117 0400 0005 6777 30"
     },
     {
       "PartyId": "002",
       "PartyName": {
+        "Title": "Ms",
         "FirstName": "Donna",
         "LastName": "Cooper",
         "MiddleName": "S"
       },
       "MailingAddress": {
         "AddressLine1": "101W 23rd",
+        "AddressLine2": "Unit # 612",
         "City": "Jersey City",
         "State": "NJ",
         "ZipCode": "07019",
+        "ZipExtension": "3245"
       },
       "TrackingNumber": "9214 8969 0117 0400 0005 6777 31"
     }
@@ -45,8 +51,15 @@
   "ReturnCourtAddress": {
     "CourtDivisionName": "Jersey City Civil Court",
     "AddressLine1": "10 Main Street, Room 427",
+    "AddressLine2": "",
     "City": "Jersey City",
     "State": "NJ",
     "ZipCode": "73060",
-  }
+    "ZipExtension": "0000"
+  },
+  "ServiceMessage": {
+    "Code": "0",
+    "Description": "Success"
+  },
+  "ErrorMessageList": null
 }
