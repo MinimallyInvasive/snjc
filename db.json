@@ -10,4 +10,36 @@
     "EfilingCourtYr": "2018",
     "EfilingSeqNo": 123
   }
+  "PartyDetailList": [
+    {
+      "PartyId": "001",
+      "PartyName": {
+        "FirstName": "Steven",
+        "LastName": "Cooper",
+        "MiddleName": "S"
+      },
+      "MailingAddress": {
+        "AddressLine1": "101W 23rd",
+        "City": "Jersey City",
+        "State": "NJ",
+        "ZipCode": "07019",
+      },
+      "TrackingNumber": "9214 8969 0117 0400 0005 6777 30"
+    },
+    {
+      "PartyId": "002",
+      "PartyName": {
+        "FirstName": "Donna",
+        "LastName": "Cooper",
+        "MiddleName": "S"
+      },
+      "MailingAddress": {
+        "AddressLine1": "101W 23rd",
+        "City": "Jersey City",
+        "State": "NJ",
+        "ZipCode": "07019",
+      },
+      "TrackingNumber": "9214 8969 0117 0400 0005 6777 31"
+    }
+  ]
 }
