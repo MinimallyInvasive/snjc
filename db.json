@@ -9,8 +9,8 @@
     "EfilingCourtDiv": "SCP",
     "EfilingCourtYr": "2018",
     "EfilingSeqNo": 123
-  }
-  "PartyDetailList" [
+  },
+  "PartyDetailList": [
     {
       "PartyId": "001",
       "PartyName": {
@@ -41,5 +41,11 @@
       },
       "TrackingNumber": "9214 8969 0117 0400 0005 6777 31"
     }
-  ]
-}
+  ],
+  "ReturnCourtAddress": {
+    "CourtDivisionName": "Jersey City Civil Court",
+    "AddressLine1": "10 Main Street, Room 427",
+    "City": "Jersey City",
+    "State": "NJ",
+    "ZipCode": "73060",
+  }
