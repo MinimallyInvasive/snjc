@@ -2,13 +2,13 @@
   "DocketNumber": {
     "DocketTypeCode": "DC",
     "DocketVenue": "ATL",
-    "DocketSeqNum": 1335,
-    "DocketCourtYear": 17
+    "DocketSeqNum": "1335",
+    "DocketCourtYear": "17"
   },
   "EfilingNumber": {
     "EfilingCourtDiv": "SCP",
     "EfilingCourtYr": "2018",
-    "EfilingSeqNo": 123
+    "EfilingSeqNo": "123"
   },
   "PartyDetailList": [
     {
