@@ -59,10 +59,5 @@
     "PostageFee": 0.65,
     "CertifiedFee": 1.20,
     "ReturnRecieptFee": 1.50
-  },
-  "ServiceMessage": {
-    "Code": "0",
-    "Description": "Success"
-  },
-  "ErrorMessageList": null
+  }
 }
