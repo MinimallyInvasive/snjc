@@ -12,6 +12,23 @@
   },
   "PartyDetailList": [
     {
+      "PartyId": "001",
+      "PartyName": {
+        "Title": "Mr",
+        "FirstName": "Steven",
+        "LastName": "Cooper",
+        "MiddleName": "S"
+      },
+      "MailingAddress": {
+        "AddressLine1": "101W 23rd",
+        "AddressLine2": "Unit # 612",
+        "City": "Jersey City",
+        "State": "NJ",
+        "ZipCode": "07019"
+      },
+      "TrackingNumber": "9214 8969 0117 0400 0005 6777 30"
+    },
+    {
       "PartyId": "002",
       "PartyName": {
         "Title": "Ms",
@@ -35,12 +52,5 @@
     "City": "Jersey City",
     "State": "NJ",
     "ZipCode": "73060"
-  },
-  "PostalPackageDetails": {
-    "NumOfSheets": 3,
-    "PageOrientation": "P",
-    "PostageFee": 0.65,
-    "CertifiedFee": 1.20,
-    "ReturnRecieptFee": 1.50
   }
 }
