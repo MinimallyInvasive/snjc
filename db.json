@@ -52,5 +52,17 @@
     "City": "Jersey City",
     "State": "NJ",
     "ZipCode": "73060"
-  }
+  },
+  "PostalPackageDetails": {
+    "NumOfSheets": 3,
+    "PageOrientation": "P",
+    "PostageFee": 0.65,
+    "CertifiedFee": 1.20,
+    "ReturnRecieptFee": 1.50
+  },
+  "ServiceMessage": {
+    "Code": "0",
+    "Description": "Success"
+  },
+  "ErrorMessageList": null
 }
