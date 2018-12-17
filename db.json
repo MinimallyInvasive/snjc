@@ -24,8 +24,7 @@
         "AddressLine2": "Unit # 612",
         "City": "Jersey City",
         "State": "NJ",
-        "ZipCode": "07019",
-        "ZipExtension": ""
+        "ZipCode": "07019"
       },
       "TrackingNumber": "9214 8969 0117 0400 0005 6777 30"
     },
@@ -42,8 +41,7 @@
         "AddressLine2": "Unit # 612",
         "City": "Jersey City",
         "State": "NJ",
-        "ZipCode": "07019",
-        "ZipExtension": ""
+        "ZipCode": "07019"
       },
       "TrackingNumber": "9214 8969 0117 0400 0005 6777 31"
     }
@@ -53,14 +51,6 @@
     "AddressLine1": "10 Main Street, Room 427",
     "City": "Jersey City",
     "State": "NJ",
-    "ZipCode": "73060",
-    "ZipExtension": ""
-  },
-  "PostalPackageDetails": {
-    "NumOfSheets": 3,
-    "PageOrientation": "P",
-    "PostageFee": 0.65,
-    "CertifiedFee": 1.20,
-    "ReturnRecieptFee": 1.50
+    "ZipCode": "73060"
   }
 }
