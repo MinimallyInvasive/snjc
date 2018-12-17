@@ -25,6 +25,7 @@
         "City": "Jersey City",
         "State": "NJ",
         "ZipCode": "07019"
+        "ZipExtension": ""
       },
       "TrackingNumber": "9214 8969 0117 0400 0005 6777 30"
     },
@@ -42,6 +43,7 @@
         "City": "Jersey City",
         "State": "NJ",
         "ZipCode": "07019"
+        "ZipExtension": ""
       },
       "TrackingNumber": "9214 8969 0117 0400 0005 6777 31"
     }
@@ -52,5 +54,13 @@
     "City": "Jersey City",
     "State": "NJ",
     "ZipCode": "73060"
+    "ZipExtension": ""
+  },
+  "PostalPackageDetails": {
+    "NumOfSheets": 3,
+    "PageOrientation": "P",
+    "PostageFee": 0.65,
+    "CertifiedFee": 1.20,
+    "ReturnRecieptFee": 1.50
   }
 }
