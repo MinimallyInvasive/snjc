@@ -61,6 +61,7 @@
     "PageOrientation": "P",
     "PostageFee": 0.65,
     "CertifiedFee": 1.20,
-    "ReturnRecieptFee": 1.50
+    "ReturnRecieptFee": 1.50,
+    "PackageWeight": 0.48
   }
 }
