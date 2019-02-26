@@ -1,67 +1,67 @@
 {
-  "DocketNumber": {
-    "DocketTypeCode": "DC",
-    "DocketVenue": "ATL",
-    "DocketSeqNum": "1335",
-    "DocketCourtYear": "17"
+  "docketNumber": {
+    "docketTypeCode": "DC",
+    "docketVenue": "ATL",
+    "docketSeqNum": "1335",
+    "docketCourtYear": "17"
   },
-  "EfilingNumber": {
-    "EfilingCourtDiv": "SCP",
-    "EfilingCourtYr": "2018",
-    "EfilingSeqNo": "123"
+  "efilingNumber": {
+    "efilingCourtDiv": "SCP",
+    "efilingCourtYr": "2018",
+    "efilingSeqNo": "123"
   },
-  "PartyDetailList": [
+  "partyDetailList": [
     {
-      "PartyId": "001",
-      "PartyName": {
-        "Title": "Mr",
-        "FirstName": "Steven",
-        "LastName": "Cooper",
-        "MiddleName": "S"
+      "partyId": "001",
+      "partyName": {
+        "title": "Mr",
+        "firstName": "Steven",
+        "lastName": "Cooper",
+        "middleName": "S"
       },
-      "MailingAddress": {
-        "AddressLine1": "101W 23rd",
-        "AddressLine2": "Unit # 612",
-        "City": "Jersey City",
-        "State": "NJ",
-        "ZipCode": "07019",
-        "ZipExtension": ""
+      "mailingAddress": {
+        "addressLine1": "101W 23rd",
+        "addressLine2": "Unit # 612",
+        "city": "Jersey City",
+        "state": "NJ",
+        "zipCode": "07019",
+        "zipExtension": ""
       },
-      "TrackingNumber": "9214 8969 0117 0400 0005 6777 30"
+      "trackingNumber": "9214 8969 0117 0400 0005 6777 30"
     },
     {
-      "PartyId": "002",
-      "PartyName": {
-        "Title": "Ms",
-        "FirstName": "Donna",
-        "LastName": "Cooper",
-        "MiddleName": "S"
+      "partyId": "002",
+      "partyName": {
+        "title": "Ms",
+        "firstName": "Donna",
+        "lastName": "Cooper",
+        "middleName": "S"
       },
-      "MailingAddress": {
-        "AddressLine1": "101W 23rd",
-        "AddressLine2": "Unit # 612",
-        "City": "Jersey City",
-        "State": "NJ",
-        "ZipCode": "07019",
-        "ZipExtension": "1234"
+      "mailingAddress": {
+        "addressLine1": "101W 23rd",
+        "addressLine2": "Unit # 612",
+        "city": "Jersey City",
+        "state": "NJ",
+        "zipCode": "07019",
+        "zipExtension": "1234"
       },
-      "TrackingNumber": "9214 8969 0117 0400 0005 6777 31"
+      "trackingNumber": "9214 8969 0117 0400 0005 6777 31"
     }
   ],
-  "ReturnCourtAddress": {
-    "CourtDivisionName": "Jersey City Civil Court",
-    "AddressLine1": "10 Main Street, Room 427",
-    "City": "Jersey City",
-    "State": "NJ",
-    "ZipCode": "73060",
-    "ZipExtension": ""
+  "returnCourtAddress": {
+    "courtDivisionName": "Jersey City Civil Court",
+    "addressLine1": "10 Main Street, Room 427",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zipCode": "73060",
+    "zipExtension": ""
   },
-  "PostalPackageDetails": {
-    "NumOfSheets": 3,
-    "PageOrientation": "P",
-    "PostageFee": 0.65,
-    "CertifiedFee": 1.20,
-    "ReturnRecieptFee": 1.50,
-    "Weight": 0.48
+  "postalPackageDetails": {
+    "numOfSheets": 3,
+    "pageOrientation": "P",
+    "postageFee": 0.65,
+    "certifiedFee": 1.20,
+    "returnRecieptFee": 1.50,
+    "weight": 0.48
   }
 }
