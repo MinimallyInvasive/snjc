@@ -64,5 +64,5 @@
     "returnRecieptFee": 1.50,
     "weight": 0.48
   },
-    "certifiedMail" => "Y"
+    "certifiedMail": "Y"
 }
