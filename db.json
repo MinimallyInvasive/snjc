@@ -63,5 +63,71 @@
     "certifiedFee": 1.20,
     "returnRecieptFee": 1.50,
     "weight": 0.48
-  }
+  }{
+  "docketNumber": {
+    "docketTypeCode": "DC",
+    "docketVenue": "ATL",
+    "docketSeqNum": "1335",
+    "docketCourtYear": "17"
+  },
+  "efilingNumber": {
+    "efilingCourtDiv": "SCP",
+    "efilingCourtYr": "2018",
+    "efilingSeqNo": "123"
+  },
+  "partyDetailList": [
+    {
+      "partyId": "001",
+      "partyName": {
+        "title": "Mr",
+        "firstName": "Steven",
+        "lastName": "Cooper",
+        "middleName": "S"
+      },
+      "mailingAddress": {
+        "addressLine1": "101W 23rd",
+        "addressLine2": "Unit # 612",
+        "city": "Jersey City",
+        "state": "NJ",
+        "zipCode": "07019",
+        "zipExtension": ""
+      },
+      "trackingNumber": "9214 8969 0117 0400 0005 6777 30"
+    },
+    {
+      "partyId": "002",
+      "partyName": {
+        "title": "Ms",
+        "firstName": "Donna",
+        "lastName": "Cooper",
+        "middleName": "S"
+      },
+      "mailingAddress": {
+        "addressLine1": "101W 23rd",
+        "addressLine2": "Unit # 612",
+        "city": "Jersey City",
+        "state": "NJ",
+        "zipCode": "07019",
+        "zipExtension": "1234"
+      },
+      "trackingNumber": "9214 8969 0117 0400 0005 6777 31"
+    }
+  ],
+  "returnCourtAddress": {
+    "courtDivisionName": "Jersey City Civil Court",
+    "addressLine1": "10 Main Street, Room 427",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zipCode": "73060",
+    "zipExtension": ""
+  },
+  "postalPackageDetails": {
+    "numOfSheets": 3,
+    "pageOrientation": "P",
+    "postageFee": 0.65,
+    "certifiedFee": 1.20,
+    "returnRecieptFee": 1.50,
+    "weight": 0.48
+  },
+    "certifiedMail": "Y"
 }
